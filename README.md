@@ -35,3 +35,17 @@ To be able to use the library with Spring Boot so that it is allowed to use the 
 ```sh
     $ java -jar SoccerPong.jar
 ```
+
+## Images
+
+Home Menu<br/>
+<br/>
+![HomeMenu](https://user-images.githubusercontent.com/89805451/147690936-f8c7925e-6e96-49b9-bd06-2b560c464328.png)
+
+Month Menu<br/>
+<br/>
+![MonthMenu](https://user-images.githubusercontent.com/89805451/147690989-1048b2ea-64f7-41a1-b7fd-36dc30a96f0f.png)
+
+Insert Amount<br/>
+<br/>
+![Insert Amount](https://user-images.githubusercontent.com/89805451/147691019-d24eb3bd-f1c5-46e3-8180-95f0f87b9c5b.png)
